@@ -1,0 +1,6 @@
+
+*.csv
+artifacts/
+__pycache__/
+*.pyc
+.streamlit/
